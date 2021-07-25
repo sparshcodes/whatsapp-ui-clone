@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/whatsapp-ui-clone/static/css/main.4dcbbbfd.chunk.css",
+    "main.js": "/whatsapp-ui-clone/static/js/main.82eb82a8.chunk.js",
+    "main.js.map": "/whatsapp-ui-clone/static/js/main.82eb82a8.chunk.js.map",
+    "runtime-main.js": "/whatsapp-ui-clone/static/js/runtime-main.9688ca37.js",
+    "runtime-main.js.map": "/whatsapp-ui-clone/static/js/runtime-main.9688ca37.js.map",
+    "static/js/2.0e5b93ce.chunk.js": "/whatsapp-ui-clone/static/js/2.0e5b93ce.chunk.js",
+    "static/js/2.0e5b93ce.chunk.js.map": "/whatsapp-ui-clone/static/js/2.0e5b93ce.chunk.js.map",
+    "static/js/3.dadaaeff.chunk.js": "/whatsapp-ui-clone/static/js/3.dadaaeff.chunk.js",
+    "static/js/3.dadaaeff.chunk.js.map": "/whatsapp-ui-clone/static/js/3.dadaaeff.chunk.js.map",
+    "index.html": "/whatsapp-ui-clone/index.html",
+    "static/css/main.4dcbbbfd.chunk.css.map": "/whatsapp-ui-clone/static/css/main.4dcbbbfd.chunk.css.map",
+    "static/js/2.0e5b93ce.chunk.js.LICENSE.txt": "/whatsapp-ui-clone/static/js/2.0e5b93ce.chunk.js.LICENSE.txt",
+    "static/media/divine.5b17fa74.png": "/whatsapp-ui-clone/static/media/divine.5b17fa74.png",
+    "static/media/elonMusk.9bed3943.jpg": "/whatsapp-ui-clone/static/media/elonMusk.9bed3943.jpg",
+    "static/media/johnWick.ba085f6c.jpg": "/whatsapp-ui-clone/static/media/johnWick.ba085f6c.jpg",
+    "static/media/kylieJenner.0d28bf3d.jpg": "/whatsapp-ui-clone/static/media/kylieJenner.0d28bf3d.jpg",
+    "static/media/loki.49fca79a.jpg": "/whatsapp-ui-clone/static/media/loki.49fca79a.jpg",
+    "static/media/modi.02cdeb9f.jpg": "/whatsapp-ui-clone/static/media/modi.02cdeb9f.jpg",
+    "static/media/rajKundra.cef39bb1.jpg": "/whatsapp-ui-clone/static/media/rajKundra.cef39bb1.jpg",
+    "static/media/rajpalYadav.c6da855e.PNG": "/whatsapp-ui-clone/static/media/rajpalYadav.c6da855e.PNG",
+    "static/media/snoopDog.d6336e6b.jpg": "/whatsapp-ui-clone/static/media/snoopDog.d6336e6b.jpg",
+    "static/media/steveRogers.79498d08.jpeg": "/whatsapp-ui-clone/static/media/steveRogers.79498d08.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9688ca37.js",
+    "static/js/2.0e5b93ce.chunk.js",
+    "static/css/main.4dcbbbfd.chunk.css",
+    "static/js/main.82eb82a8.chunk.js"
+  ]
+}
